@@ -1,2 +1,1 @@
-# MailboxService
- 
+This project is an implementation of a client for mail services (gmail, yandex and mail.ru) on Windows Forms using a third-party MailKit library. Using the application, you can view, send, receive and delete mailsю
